@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ilovegrass123/sadge.git/static/css/main.f855e6bc.css",
+    "main.js": "/ilovegrass123/sadge.git/static/js/main.759c5e63.js",
+    "static/js/453.4cc0f925.chunk.js": "/ilovegrass123/sadge.git/static/js/453.4cc0f925.chunk.js",
+    "static/media/logo.svg": "/ilovegrass123/sadge.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ilovegrass123/sadge.git/index.html",
+    "main.f855e6bc.css.map": "/ilovegrass123/sadge.git/static/css/main.f855e6bc.css.map",
+    "main.759c5e63.js.map": "/ilovegrass123/sadge.git/static/js/main.759c5e63.js.map",
+    "453.4cc0f925.chunk.js.map": "/ilovegrass123/sadge.git/static/js/453.4cc0f925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.759c5e63.js"
+  ]
+}
